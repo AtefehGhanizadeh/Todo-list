@@ -1,0 +1,59 @@
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: bold;
+    src: url(/assests/fonts/iranyekan/eot/iranyekanwebbold.eot);
+    src:url(/assests/fonts/iranyekan/eot/iranyekanwebbold.eot?#iefix)format("embedded-opentype"),
+    url(/assests/fonts/iranyekan/woff/iranyekanwebbold.woff) format("woff"),
+    url(/assests/fonts/iranyekan/woff2/iranyekanwebbold.woff2) format("woff2"),
+    url(/assests/fonts/iranyekan/ttf/iranyekanwebbold.ttf)format("ttf");
+
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 100;
+    src: url(/assests/fonts/iranyekan/eot/IRANYekanWebThin.eot);
+    src:url(/assests/fonts/iranyekan/eot/IRANYekanWebThin.eot)format("embedded-opentype"),
+    url(/assests/fonts/iranyekan/woff/IRANYekanWebThin.woff) format("woff"),
+    url(/assests/fonts/iranyekan/woff2/IRANYekanWebThin.woff2) format("woff2"),
+    url(/assests/fonts/iranyekan/ttf/IRANYekanWebThin.ttf)format("ttf");
+
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    src: url(/assests/fonts/iranyekan/eot/IRANYekanWebThin.eot);
+    src:url(/assests/fonts/iranyekan/eot/IRANYekanWebThin.eot)format("embedded-opentype"),
+    url(/assests/fonts/iranyekan/woff/IRANYekanWebThin.woff) format("woff"),
+    url(/assests/fonts/iranyekan/woff2/IRANYekanWebThin.woff2) format("woff2"),
+    url(/assests/fonts/iranyekan/ttf/IRANYekanWebThin.ttf)format("ttf");
+
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url(/assests/fonts/iranyekan/eot/iranyekanwebregular.eot);
+    src:url(/assests/fonts/iranyekan/eot/iranyekanwebregular.eot?#iefix)format("embedded-opentype"),
+    url(/assests/fonts/iranyekan/woff/iranyekanwebregular.woff) format("woff"),
+    url(/assests/fonts/iranyekan/woff2/iranyekanwebregular.woff2) format("woff2"),
+    url(/assests/fonts/iranyekan/ttf/iranyekanwebregular.ttf)format("ttf");
+
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/assests/fonts/iranyekan/eot/IRANYekanWebMedium.eot);
+    src:url(/assests/fonts/iranyekan/eot/IRANYekanWebMedium.eot?#iefix)format("embedded-opentype"),
+    url(/assests/fonts/iranyekan/woff/IRANYekanWebMedium.woff) format("woff"),
+    url(/assests/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2) format("woff2"),
+    url(/assests/fonts/iranyekan/ttf/IRANYekanWebMedium.ttf)format("ttf");
+
+}
